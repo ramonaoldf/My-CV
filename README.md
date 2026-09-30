@@ -80,8 +80,8 @@ Other Works: -
 
 Visual Studio Code Extension: - http://bit.ly/ASP-NET-CORE-Ext
 NPM Projects: - https://www.npmjs.com/~rahulsahay19
-E-Commerce App:-  https://github.com/rahulsahay19/eCommerce-App 
-        Movie-Review App:- https://github.com/rahulsahay19/MovieReview-Angular-Prod
+E-Commerce App:-  https://github.com/ramonaoldf/eCommerce-App 
+        Movie-Review App:- https://github.com/ramonaoldf/MovieReview-Angular-Prod
       Other open source projects also can be viewed at https://github.com/rahulsahay19
 
 
@@ -93,7 +93,7 @@ Assignment: -
 <p align="justify">Working as lead here. I am currently designing global platform wherein I am doing POC on all latest technology suite including client/server side stuffs. I am also responsible for designing framework for developers’ team, where they get one stop hub for developing new features.  I am also involved in Requirement Gathering, Requirement Analysis, and Design Review. Most of my time is devoted in building rich and scalable framework by putting different client/server side frameworks all together.</p>
 
 Other Works: - 
-<p align="justify">Movie Review App is a project, where in I have used tons of client/server side technologies to build Single Page Application (SPA). Project can be viewed in http://moviereview.azurewebsites.net/#/. In this assignment, I have below mentioned Client/Server Side Technologies. Code for the same can be downloaded from GIT https://github.com/rahulsahay19/MovieReview-Angular-Prod </p>
+<p align="justify">Movie Review App is a project, where in I have used tons of client/server side technologies to build Single Page Application (SPA). Project can be viewed in http://moviereview.azurewebsites.net/#/. In this assignment, I have below mentioned Client/Server Side Technologies. Source code: https://github.com/ramonaoldf/MovieReview-Angular-Prod</p>
 
 Client Side: -
 --------------------
